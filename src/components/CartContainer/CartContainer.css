@@ -1,0 +1,26 @@
+.broom{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px 0px 20px 20px;
+    margin: -40px 0px 20px 0px;
+
+}
+.cart{
+    margin: 30px 0px;
+    padding: 0px 0px 40px;
+    background-color: #ededede0;
+}
+.text-des{
+    background-color:   #1e3056;
+    color: #fff;
+    padding:  10px 0px;
+    margin: 0px 0px 20px;
+}
+.button-marrige{
+    background-color: #1e3056;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 18px;
+    font-weight: 600;
+}
